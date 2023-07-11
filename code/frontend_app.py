@@ -10,10 +10,10 @@ from azure.search.documents.models import QueryType
 
 #Azure Search and OpenAI endpoints
 
-AZURE_SEARCH_SERVICE =  "ctechcognitivesearch"
-AZURE_SEARCH_INDEX = "azureblob-index"
-AZURE_OPENAI_SERVICE =  "ctechaidemo"
-AZURE_OPENAI_GPT_DEPLOYMENT =  "davinci"
+AZURE_SEARCH_SERVICE =  "aidemo666-search"
+AZURE_SEARCH_INDEX = "liebherr1"
+AZURE_OPENAI_SERVICE =  "openaidemo666"
+AZURE_OPENAI_GPT_DEPLOYMENT =  "gpt-35-turbo"
 AZURE_OPENAI_CHATGPT_DEPLOYMENT =  "chat-gpt-35-turbo"
 
 KB_FIELDS_CONTENT = "content"
